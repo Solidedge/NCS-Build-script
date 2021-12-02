@@ -4,7 +4,8 @@ Powershell script for building and flashing several Development Kits, when worki
 ## How to utilize
 Put the build.ps1 file in the same folder as the "/src/" folder and run it, configure the script to your own desire and run it.
 
-Disclaimer: It's been a while since I set this up to work, do so at your own risk! You might need to alter the execution policy, which is done by entering "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" in your powershell terminal.
+# Disclaimer
+It's been a while since I set this up to work, do so at your own risk! You might need to alter the execution policy, which is done by entering "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" in your powershell terminal.
 
 ## Dependencies
 - NCS toolchain
